@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import AppProfile from './AppProfile';
+import AppMentor from './AppMentor';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <AppProfile />
+    <AppMentor />
   </React.StrictMode>
 );
